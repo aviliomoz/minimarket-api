@@ -1,11 +1,8 @@
-{
-  "ok": true,
-  "categories": [
-    {
-      "name": "frutas"
-    },
-    {
-      "name": "verduras"
-    }
-  ]
-}
+[
+  {
+    "name": "frutas"
+  },
+  {
+    "name": "verduras"
+  }
+]
